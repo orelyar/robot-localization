@@ -1,4 +1,4 @@
-# robot-localization
+# Robot-Localization
 
 this project aim to crate a new robot localization algorithm for systems with low processing capacity with a low measurement rate and a large amount of noise. 
 The algorithm has a preference for ease and speed of calculation over accuracy.
